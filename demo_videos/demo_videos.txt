@@ -1,3 +1,4 @@
-demo_video1=https://youtu.be/y1zRJytrwsI
-demo_video2=https://youtu.be/njvnVr34bjM
-demo_video3=https://www.youtube.com/watch?v=nqVdI0ohxCo
+The demo videos are uploaded as unlisted videos on youtube, links can be found below
+demo_video1 for tensorflow nn=https://youtu.be/y1zRJytrwsI
+demo_video2 for tensorflow cnn=https://youtu.be/njvnVr34bjM
+demo_video3 fro pytorch cnn=https://www.youtube.com/watch?v=nqVdI0ohxCo
