@@ -3,6 +3,6 @@ Hi, to everyone viewing this project . Fashion MNIST is a classification problem
 
 If the videos are not opening from github I have uploaded them as an unlisted video on youtube, the links for them can be found below
 
-demo_video1=https://youtu.be/y1zRJytrwsI
+demo_video1=https://youtu.be/y1zRJytrwsI \n
 demo_video2=https://youtu.be/njvnVr34bjM
 demo_video3=https://www.youtube.com/watch?v=nqVdI0ohxCo
